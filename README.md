@@ -50,13 +50,25 @@ the text from the bluetooth module and control the appliances using an electroni
 <li>Soldering Iron, paste and metal ( If using PCB)</li> 
 </ol>
 </pre>
+
 <h2>Software required</h2>
 <pre>1. ARDUINO IDE</pre>
-<img src="C:\Users\manuj\Documents\circuit.png" alt="NO IMAGE AVAILABLE">
 
-<h2>CODE:</h2>
+<h2>Circuit diagram</h2>
+<pre>
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/circuit.png" alt="NO IMAGE AVAILABLE">
+</pre>
+
+<h2>CODE</h2>
 <pre>After making the proper connections take the code from the given link and run it on the Arduino Board.<br>
 <a href="https://github.com/manujain006/Voice_control_room_project">Click here for the code</a>
+</pre>
+
+<h2>SNAPSHOTS</h2>
+<pre>Snapshot 1:<br/>
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic1.png" alt="NO IMAGE AVAILABLE">
+Snapshot 2:<br/>
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic2.png" alt="NO IMAGE AVAILABLE">
 </pre>
 
 </font>
