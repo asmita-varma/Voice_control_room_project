@@ -56,7 +56,7 @@ the text from the bluetooth module and control the appliances using an electroni
 
 <h2>Circuit diagram</h2>
 <pre>
-<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/circuit.png" alt="NO IMAGE AVAILABLE">
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/circuit.png" alt="NO IMAGE AVAILABLE" width="600" height="550">
 </pre>
 
 <h2>CODE</h2>
@@ -66,9 +66,9 @@ the text from the bluetooth module and control the appliances using an electroni
 
 <h2>SNAPSHOTS</h2>
 <pre>Snapshot 1:<br/>
-<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic1.png" alt="NO IMAGE AVAILABLE">
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic1.png" alt="NO IMAGE AVAILABLE" width="600" height="550">
 Snapshot 2:<br/>
-<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic2.png" alt="NO IMAGE AVAILABLE">
+<img src="https://github.com/manujain006/Voice_control_room_project/blob/master/pic2.png" alt="NO IMAGE AVAILABLE" width="600" height="550">
 </pre>
 
 </font>
